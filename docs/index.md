@@ -112,7 +112,7 @@ SPROUT is released under the [MIT License]({{ site.github_blob }}/LICENSE).
     color: #5c5962;
   }
 </style>
-
+{% endcomment %}
 ## Distribution Statement
 
 DISTRIBUTION STATEMENT A. Approved for public release. Distribution is unlimited.
