@@ -6,7 +6,8 @@
 #   ln -s ../SPROUT_Design SPROUT_Design   # one-time, from inside docs/
 #   bundle exec jekyll serve --config _config.yml,_config_dev.yml --livereload
 
-github_raw: /sprout
+# Must match _config.yml's `baseurl` — the symlinked folder is served under it.
+github_raw: /sprout_review
 
 # _config.yml's `exclude` is fully replaced (not merged) by this list, so it
 # repeats those entries plus the heavy folders we don't need to serve locally.
