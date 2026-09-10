@@ -29,5 +29,5 @@ or clone the repository to open them locally.
 - Clone the repository to get all files at once:
 
 ```bash
-git clone https://github.com/hadr-robotics/sprout.git
+git clone https://github.com/hadr-robotics/sprout_review.git
 ```

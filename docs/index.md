@@ -15,7 +15,7 @@ permalink: /
 {: .fs-6 .fw-300 }
 
 [Get started with Documentation]({{ site.baseurl }}/documentation/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View the repository on GitHub](https://github.com/hadr-robotics/sprout){: .btn .fs-5 .mb-4 .mb-md-0 }
+[View the repository on GitHub](https://github.com/hadr-robotics/sprout_review){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
