@@ -11,17 +11,17 @@ tagline: Open-source, open-hardware soft robot for search & rescue
 
 theme: just-the-docs
 
-# GitHub Pages project-site config: https://sprout-mitll.github.io/sprout/
-url: "https://sprout-mitll.github.io"
-baseurl: "/sprout"
+# GitHub Pages project-site config: https://hadr-robotics.github.io/sprout/
+url: "https://hadr-robotics.github.io"
+baseurl: "/sprout_review"
 
-repository: SPROUT-MITLL/sprout
+repository: hadr-robotics/sprout
 
 # Base URL used throughout the docs to link directly to files/folders that live
 # in SPROUT_Design/ (CAD, photos, etc.) which are not copied into this site.
-github_raw: https://raw.githubusercontent.com/SPROUT-MITLL/sprout/main
-github_blob: https://github.com/SPROUT-MITLL/sprout/blob/main
-github_tree: https://github.com/SPROUT-MITLL/sprout/tree/main
+github_raw: https://raw.githubusercontent.com/hadr-robotics/sprout/main
+github_blob: https://github.com/hadr-robotics/sprout/blob/main
+github_tree: https://github.com/hadr-robotics/sprout/tree/main
 
 logo: "/assets/images/logo.png"
 favicon_ico: "/assets/images/logo_s.png"
@@ -56,24 +56,24 @@ back_to_top_text: "Back to top"
 nav_sort: case_insensitive
 nav_external_links:
   - title: SPROUT on GitHub
-    url: https://github.com/SPROUT-MITLL/sprout
+    url: https://github.com/hadr-robotics/sprout
     hide_icon: false
 
 aux_links:
   "SPROUT on GitHub":
-    - "https://github.com/SPROUT-MITLL/sprout"
+    - "https://github.com/hadr-robotics/sprout"
 aux_links_new_tab: true
 
 footer_content: >-
   <!-- Copyright &copy; 2026 Massachusetts Institute of Technology. -->
   Copyright &copy; 2026 [Institution redacted for double-blind review]. Distributed
   under an <a
-  href="https://github.com/SPROUT-MITLL/sprout/blob/main/LICENSE">MIT
+  href="https://github.com/hadr-robotics/sprout/blob/main/LICENSE">MIT
   license</a>.
 
 gh_edit_link: true
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/SPROUT-MITLL/sprout"
+gh_edit_repository: "https://github.com/hadr-robotics/sprout"
 gh_edit_branch: "main"
 gh_edit_source: docs
 gh_edit_view_mode: "tree"

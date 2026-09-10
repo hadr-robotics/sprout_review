@@ -98,8 +98,8 @@ Move into the ROS workspace, clone necessary packages, and build repo.
 
 ```bash
 cd ~/ws/src
-git clone git@github.com:SPROUT-MITLL/sprout_ros.git # Install SPROUT ROS
-git clone -b ros2 git@github.com:SPROUT-MITLL/ds5_ros.git # SPROUT fork of DS5 driver
+git clone git@github.com:hadr-robotics/sprout_ros.git # Install SPROUT ROS
+git clone -b ros2 git@github.com:hadr-robotics/ds5_ros.git # SPROUT fork of DS5 driver
 cd ~/ws
 colcon build
 source ../devel/setup.bash

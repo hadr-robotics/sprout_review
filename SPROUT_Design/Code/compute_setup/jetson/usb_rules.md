@@ -120,7 +120,7 @@ sudo udevadm trigger
 You will also need to install the dedicated package to interface with the Fort Controller.
 ```
 cd ~/Downloads
-git clone git@github.com:SPROUT-MITLL/fort_scm_py3.git
+git clone git@github.com:hadr-robotics/fort_scm_py3.git
 cd fort_scm_py3
 bash build.sh
 cd dist

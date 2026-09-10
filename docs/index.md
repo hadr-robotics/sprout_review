@@ -15,7 +15,7 @@ permalink: /
 {: .fs-6 .fw-300 }
 
 [Get started with Documentation]({{ site.baseurl }}/documentation/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View the repository on GitHub](https://github.com/SPROUT-MITLL/sprout){: .btn .fs-5 .mb-4 .mb-md-0 }
+[View the repository on GitHub](https://github.com/hadr-robotics/sprout){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -45,7 +45,7 @@ This site mirrors the folder structure of the [`SPROUT_Design`]({{ site.github_t
 
 Have a question, run into an issue building your own SPROUT, or spot something
 that needs fixing in the docs? [Open an issue on
-GitHub](https://github.com/SPROUT-MITLL/sprout/issues) — it's the best way to
+GitHub](https://github.com/hadr-robotics/sprout/issues) — it's the best way to
 reach the team and helps other builders who run into the same thing.
 
 ## Citation
@@ -112,57 +112,6 @@ SPROUT is released under the [MIT License]({{ site.github_blob }}/LICENSE).
     color: #5c5962;
   }
 </style>
-
-<!-- Add one .team-member block per collaborator; headshots live in assets/images/team/ -->
-<div class="team-grid">
-  <div class="team-member">
-    <img src="{{ site.baseurl }}/assets/images/team/Nathaniel_Hanson.jpg" alt="Nathaniel Hanson">
-    <div class="team-name">Nathaniel Hanson</div>
-    <div class="team-role">Principal Investigator, MIT Lincoln Laboratory</div>
-  </div>
-  <div class="team-member">
-    <img src="{{ site.baseurl }}/assets/images/team/Antonio_Alvarez_Valdivia.jpg" alt="Antonio Alvarez Valdivia">
-    <div class="team-name">Antonio Alvarez Valdivia</div>
-    <div class="team-role">MIT Lincoln Laboratory</div>
-  </div>
-  <div class="team-member">
-    <img src="{{ site.baseurl }}/assets/images/team/Ankush_Dhwan.jpg" alt="Ankush Dhwan">
-    <div class="team-name">Ankush Dhwan</div>
-    <div class="team-role">MIT Lincoln Laboratory</div>
-  </div>
-  <div class="team-member">
-    <img src="{{ site.baseurl }}/assets/images/team/Chad_Council.png" alt="Chad Council">
-    <div class="team-name">Chad Council</div>
-    <div class="team-role">MIT Lincoln Laboratory</div>
-  </div>
-  <div class="team-member">
-    <img src="{{ site.baseurl }}/assets/images/team/Ciera_McFarland.jpg" alt="Ciera McFarland">
-    <div class="team-name">Ciera McFarland</div>
-    <div class="team-role">University of Notre Dame</div>
-  </div>
-  <div class="team-member">
-    <img src="{{ site.baseurl }}/assets/images/team/Margaret_McGuinness.jpg" alt="Margaret McGuinness">
-    <div class="team-name">Margaret McGuinness</div>
-    <div class="team-role">University of Notre Dame</div>
-  </div>
-  <div class="team-member">
-    <img src="{{ site.baseurl }}/assets/images/team/Megan_Richardson.jpg" alt="Megan Richardson">
-    <div class="team-name">Megan Richardson</div>
-    <div class="team-role">MIT Lincoln Laboratory</div>
-  </div>
-  <div class="team-member">
-    <img src="{{ site.baseurl }}/assets/images/team/Robert_Reeve.png" alt="Robert Reeve">
-    <div class="team-name">Robert Reeve</div>
-    <div class="team-role">MIT Lincoln Laboratory</div>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; justify-content: center; gap: 3rem; flex-wrap: wrap; margin: 2rem 0 1rem;">
-  <a href="https://www.nd.edu" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/notre-dame.png" alt="University of Notre Dame" height="60"></a>
-  <a href="https://www.ll.mit.edu" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/mit-ll.png" alt="MIT Lincoln Laboratory" height="60"></a>
-</div>
-<p style="text-align: center; font-size: 0.85rem; color: #5c5962; margin-bottom: 2rem;">A joint project of the University of Notre Dame and MIT Lincoln Laboratory.</p>
-{% endcomment %}
 
 ## Distribution Statement
 
