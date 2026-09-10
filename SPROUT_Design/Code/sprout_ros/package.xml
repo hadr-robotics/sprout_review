@@ -4,7 +4,6 @@
   <name>sprout_ros</name>
   <version>0.0.0</version>
   <description>SPROUT vine robot control stack</description>
-  <!-- <maintainer email="nathaniel.hanson@ll.mit.edu">jetson</maintainer> -->
   <maintainer email="anonymous@example.com">jetson</maintainer>
   <license>MIT</license>
   <buildtool_depend>ament_cmake</buildtool_depend>
