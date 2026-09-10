@@ -41,35 +41,6 @@ This site mirrors the folder structure of the [`SPROUT_Design`]({{ site.github_t
 | [Electronics]({{ site.baseurl }}/electronics/) | Custom Arduino shield PCB (KiCad project, gerbers, schematics) | [`SPROUT_Design/Electronics`]({{ site.github_tree }}/SPROUT_Design/Electronics) |
 | [Software]({{ site.baseurl }}/software/) | Jetson bootstrap guide and the `sprout_ros` ROS 2 stack | [`SPROUT_Design/Code`]({{ site.github_tree }}/SPROUT_Design/Code) |
 
-## Getting Help
-
-Have a question, run into an issue building your own SPROUT, or spot something
-that needs fixing in the docs? [Open an issue on
-GitHub](https://github.com/hadr-robotics/sprout/issues) — it's the best way to
-reach the team and helps other builders who run into the same thing.
-
-## Citation
-
-A paper describing SPROUT is planned for release on [arXiv](https://arxiv.org/). If you use SPROUT in your research, please cite it using the entry below.
-
-{: .note }
-> This citation is a placeholder and will be updated with the final author list and arXiv identifier once the paper is posted.
-
-```bibtex
-@misc{sprout2026,
-  title         = {SPROUT: An Open-Source, Open-Hardware Soft Robot for Search and Rescue},
-{% comment %}
-  author        = {Antonio Alvarez Valdivia, Ciera McFarland, Robert Reeve, Ankush Dhawan, Chad Council, Megan Richardson, Margaret McGuinness, and Nathaniel Hanson},
-{% endcomment %}
-  author        = {Authors withheld for double-blind review},
-  year          = {2026},
-  eprint        = {TODO: arXiv ID},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.RO},
-  url           = {https://arxiv.org/abs/TODO}
-}
-```
-
 ## License
 
 SPROUT is released under the [MIT License]({{ site.github_blob }}/LICENSE).
@@ -113,12 +84,3 @@ SPROUT is released under the [MIT License]({{ site.github_blob }}/LICENSE).
   }
 </style>
 {% endcomment %}
-## Distribution Statement
-
-DISTRIBUTION STATEMENT A. Approved for public release. Distribution is unlimited.
-This material is based upon work supported by the Department of the Air Force under Air Force Contract No. FA8702-15-D-0001 or FA8702-25-D-B002. Any opinions, findings, conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the Department of the Air Force.
-{% comment %}© 2026 Massachusetts Institute of Technology.{% endcomment %}
-© 2026 [Institution redacted for double-blind review].
-
-Subject to FAR52.227-11 Patent Rights - Ownership by the contractor (May 2014)
-Delivered to the U.S. Government with Unlimited Rights, as defined in DFARS Part 252.227-7013 or 7014 (Feb 2014). Notwithstanding any copyright notice, U.S. Government rights in this work are defined by DFARS 252.227-7013 or DFARS 252.227-7014 as detailed above. Use of this work other than as specifically authorized by the U.S. Government may violate any copyrights that exist in this work.
